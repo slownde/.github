@@ -1,4 +1,3 @@
-readme: |
   ---
   
   # Slown.de 🌐
