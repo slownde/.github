@@ -20,12 +20,12 @@
   - **Realm Network**: Access a wide array of interconnected worlds, each tailored for an incredible experience.
   
   ## 🔧 How to Get Started
-  1. **Visit** [slown.de](https://slown.de) to join our community.
+  1. **Visit** [slown.de](https://discord.slown.de) to join our community.
   2. **Connect** to the server with our network address: `slown.de`.
   3. **Start Playing**! Join realms, explore, and have fun in our optimized worlds.
   
   ## 🌐 Join Our Community
-  - [Discord](https://dsc.gg/slownde) - Chat with our community
+  - [Discord](https://discord.slown.de) - Chat with our community
   - [Website](https://slown.de) - Learn more and stay updated
   
   ---
